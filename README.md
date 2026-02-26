@@ -1,7 +1,6 @@
 <div align="center">
-
-# Kacper Straszak
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=320&lines=Kacper+Straszak" />
+  <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=1400&color=58A6FF&center=true&vCenter=true&repeat=true&width=480&lines=CS+Engineer+%40+Warsaw+University+of+Technology;MSc+Student+%40+Military+University+of+Technology;Flutter+%C2%B7+Dart+%C2%B7+Python;VMware+vSphere+%C2%B7+ESXi+%C2%B7+vSAN" alt="Typing SVG" />
 
 <br/>
