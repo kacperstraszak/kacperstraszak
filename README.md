@@ -42,10 +42,14 @@ CS engineer who enjoys building mobile apps and backends, with hands-on experien
 
 ### 📂 projects
 
-| project | description | stack |
-|:---|:---|:---|
-| [**MovieApp**](https://github.com/kacperstraszak/MovieApp) | Browse and discover movies | Flutter · Dart |
-| [**BirthdayConnector**](https://github.com/kacperstraszak/birthdayconnector) | Never miss an important date | Flutter · Dart |
+<div align="center">
+
+| | project | description | stack |
+|:---:|:---|:---|:---|
+| 🎬 | [**MovieApp**](https://github.com/kacperstraszak/MovieApp) | Browse and discover movies | Flutter · Dart |
+| 🎂 | [**BirthdayConnector**](https://github.com/kacperstraszak/birthdayconnector) | Never miss an important date | Flutter · Dart |
+
+</div>
 
 ---
 
