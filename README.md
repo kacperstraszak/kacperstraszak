@@ -62,9 +62,8 @@ CS engineer who enjoys building mobile apps and backends, with hands-on experien
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kacperstraszak&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/kacperstraszak)
-&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kacperstraszak&layout=compact&theme=github_dark&hide_border=true&langs_count=6)](https://github.com/kacperstraszak)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kacperstraszak&theme=github-dark-blue&hide_border=false&border=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://github.com/kacperstraszak)
 
 <br/>
 <img src="https://komarev.com/ghpvc/?username=kacperstraszak&color=58a6ff&style=flat-square&label=profile+views" />
