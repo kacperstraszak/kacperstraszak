@@ -24,16 +24,13 @@ CS engineer who enjoys building mobile apps and backends, with hands-on experien
 ---
 
 ### 🛠 stack
-
 <div align="center">
 
-| Mobile | Backend | Infrastructure | Languages |
-|:---:|:---:|:---:|:---:|
-| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
-| ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) | ![VMware](https://img.shields.io/badge/VMware_vSphere-607078?style=flat-square&logo=vmware&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
-| | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| | ![DRF](https://img.shields.io/badge/REST_Framework-ff1709?style=flat-square&logo=django&logoColor=white) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) | |
-| | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) | | |
+| Languages | Backend | Mobile | Data & ML | Infrastructure |
+|:---:|:---:|:---:|:---:|:---:|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) | | ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) | ![VMware](https://img.shields.io/badge/VMware_vSphere-607078?style=flat-square&logo=vmware&logoColor=white) |
 
 </div>
 
@@ -43,10 +40,15 @@ CS engineer who enjoys building mobile apps and backends, with hands-on experien
 
 <div align="center">
 
-| | project | description | stack |
-|:---:|:---|:---|:---|
-| 🎬 | [**MovieApp**](https://github.com/kacperstraszak/MovieApp) | Browse and discover movies | Flutter · Dart |
-| 🎂 | [**BirthdayConnector**](https://github.com/kacperstraszak/birthdayconnector) | Never miss an important date | Flutter · Dart |
+| | project | description | stack | |
+|:---:|:---|:---|:---|:---:|
+| 🎬 | [**MovieApp**](https://github.com/kacperstraszak/MovieApp) | BSc thesis - mobile app for group movie selection via gesture-based voting and a hybrid recommendation algorithm (content-based + collaborative filtering) with real-time session sync | Flutter · Dart · Supabase · PostgreSQL · TypeScript | solo |
+| 💃 | [**MoovIT**](https://github.com/kacperstraszak/MoovIT) | Real-time dance learning app that compares user movements to professional recordings using pose estimation | Python · Flutter · Jupyter Notebook | team |
+| 🐛 | [**SietchScript**](https://github.com/kacperstraszak/SietchScript) | Custom scripting language built from scratch - own lexer, parser and interpreter, with full EBNF grammar documentation | Python | solo |
+| 🤖 | [**IUM24Z-MaStHave**](https://github.com/kacperstraszak/IUM24Z-MaStHave) | ML model predicting premium subscription likelihood for a streaming platform, served via Flask microservice with A/B testing | Python · scikit-learn · Flask | team |
+| 🎂 | [**birthdayconnector**](https://github.com/kacperstraszak/birthdayconnector) | Social mobile app built around birthdays - life stats, birthday twins, historical events on your birth date, and time-locked letters that can only be opened on a chosen date | Flutter · Dart · Supabase | solo |
+| 🐴 | [**BD2Projekt-HobbyHorseStable**](https://github.com/kacperstraszak/BD2Projekt-HobbyHorseStable) | Hobby horse stable management system, with full backend logic, database design and test suite | Python · Django · Java · PostgreSQL | team |
+| 💭 | [**PIS24Z-flashcards-app**](https://github.com/kacperstraszak/PIS24Z-flashcards-app) | Flashcard app with spaced repetition, full-text search and multimedia storage | Python · Django · Flutter · PostgreSQL · Elasticsearch · Docker | team |
 
 </div>
 
@@ -64,7 +66,6 @@ CS engineer who enjoys building mobile apps and backends, with hands-on experien
 ---
 
 <div align="center">
-
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kacperstraszak&theme=github-dark-blue&hide_border=false&border=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://github.com/kacperstraszak)
 
